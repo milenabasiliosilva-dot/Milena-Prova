@@ -1,0 +1,37 @@
+
+
+h1 {
+    font-family: arial;
+    color: rgb(145, 145, 255);
+   text-align: center;
+    
+}
+
+footer {
+    padding: 20 px 0;
+    text-align: center;
+    margin-top: 50px;
+    background-color: blueviolet;
+}
+
+minha imagem {
+    text-align: center;
+}
+
+img {
+   margin-top: 20px;
+    max-width: 300px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px; 
+
+}
+
+p {
+    text-align: center;
+    color: rgb(211, 167, 252);
+}
+
+a {
+    text-align: center;
+    color: rgb(75, 7, 139);
+}
